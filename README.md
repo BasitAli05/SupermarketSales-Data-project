@@ -44,8 +44,14 @@ USE SCHEMA RAW;
 ```
 
 - Then Loaded supermarket sales csv file into snowflake as raw table named raw_supermarket_sales
+  ![temp](https://github.com/user-attachments/assets/aae8943c-7624-41ed-9f78-15391f4aa8cd)
+  
 - Build data models and transformations using DBT Core
+  ![2](https://github.com/user-attachments/assets/68aedd01-cb92-4399-b6e6-3d2c4c21df73)
+  
 - Loaded transformed data into Snowflake used as Data warehouse
+  ![1](https://github.com/user-attachments/assets/cae57c1e-a5c7-4472-b8cb-658b55176ca3)
+
 
 
 ### Resources:
